@@ -6,12 +6,6 @@ To get started:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
-
-    cd tailwindcss-playground
-    ```
-
 2. Install the dependencies:
 
     ```bash
@@ -49,5 +43,3 @@ npm run production
 # Using Yarn
 yarn run production
 ```
-
-After that's done, check out `./public/build/tailwind.css` to see the optimized output.
